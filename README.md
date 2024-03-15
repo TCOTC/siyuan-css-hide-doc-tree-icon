@@ -4,7 +4,7 @@
 
 ### CSS
 
-```
+```css
 /* Hide the icon in front of the document in the document tree CSS https://github.com/TCOTC/siyuan-css-hide-doc-tree-icon */
 .b3-list-item__icon {
     display: none ;
