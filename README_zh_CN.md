@@ -4,7 +4,7 @@
 
 ### CSS
 
-```
+```css
 /* 在文档树中隐藏文档前的图标 CSS片段 https://github.com/TCOTC/siyuan-css-hide-doc-tree-icon */
 .b3-list-item__icon {
     display: none ;
